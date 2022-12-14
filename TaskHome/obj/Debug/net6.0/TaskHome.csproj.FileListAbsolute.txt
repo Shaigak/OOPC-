@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\C#\Lab\Class\Hometask\TaskHome\TaskHome\bin\Debug\net6.0\TaskHome.exe
+C:\Users\Admin\Documents\C#\Lab\Class\Hometask\TaskHome\TaskHome\bin\Debug\net6.0\TaskHome.deps.json
+C:\Users\Admin\Documents\C#\Lab\Class\Hometask\TaskHome\TaskHome\bin\Debug\net6.0\TaskHome.runtimeconfig.json
+C:\Users\Admin\Documents\C#\Lab\Class\Hometask\TaskHome\TaskHome\bin\Debug\net6.0\TaskHome.dll
+C:\Users\Admin\Documents\C#\Lab\Class\Hometask\TaskHome\TaskHome\bin\Debug\net6.0\TaskHome.pdb
+C:\Users\Admin\Documents\C#\Lab\Class\Hometask\TaskHome\TaskHome\obj\Debug\net6.0\TaskHome.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\C#\Lab\Class\Hometask\TaskHome\TaskHome\obj\Debug\net6.0\TaskHome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\C#\Lab\Class\Hometask\TaskHome\TaskHome\obj\Debug\net6.0\TaskHome.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\C#\Lab\Class\Hometask\TaskHome\TaskHome\obj\Debug\net6.0\TaskHome.AssemblyInfo.cs
+C:\Users\Admin\Documents\C#\Lab\Class\Hometask\TaskHome\TaskHome\obj\Debug\net6.0\TaskHome.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\C#\Lab\Class\Hometask\TaskHome\TaskHome\obj\Debug\net6.0\TaskHome.dll
+C:\Users\Admin\Documents\C#\Lab\Class\Hometask\TaskHome\TaskHome\obj\Debug\net6.0\refint\TaskHome.dll
+C:\Users\Admin\Documents\C#\Lab\Class\Hometask\TaskHome\TaskHome\obj\Debug\net6.0\TaskHome.pdb
+C:\Users\Admin\Documents\C#\Lab\Class\Hometask\TaskHome\TaskHome\obj\Debug\net6.0\TaskHome.genruntimeconfig.cache
+C:\Users\Admin\Documents\C#\Lab\Class\Hometask\TaskHome\TaskHome\obj\Debug\net6.0\ref\TaskHome.dll
